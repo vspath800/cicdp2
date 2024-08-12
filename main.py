@@ -26,7 +26,7 @@ def hello() -> str:
     Returns:
         A string with the words 'Hello World!'.
     """
-    return "Hello World! V1.0 CI/CD pipeline."
+    return "Hello World! V2.0 CI/CD pipeline*."
 
 
 if __name__ == "__main__":
